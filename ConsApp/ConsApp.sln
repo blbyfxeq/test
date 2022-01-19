@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsApp", "ConsApp.csproj", "{DA8B4494-D86F-4A28-96A0-7AD0A961E4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "..\TestProject\TestProject.csproj", "{26C86BFD-58D7-4989-80A4-AE5480736066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8B4494-D86F-4A28-96A0-7AD0A961E4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8B4494-D86F-4A28-96A0-7AD0A961E4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8B4494-D86F-4A28-96A0-7AD0A961E4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8B4494-D86F-4A28-96A0-7AD0A961E4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C86BFD-58D7-4989-80A4-AE5480736066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C86BFD-58D7-4989-80A4-AE5480736066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C86BFD-58D7-4989-80A4-AE5480736066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C86BFD-58D7-4989-80A4-AE5480736066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0E7096-311B-4F61-835D-D44DB8F7ABF1}
+	EndGlobalSection
+EndGlobal
